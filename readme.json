@@ -15,7 +15,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-22T03:34:28Z",
+            "last_commit": "2026-02-07T15:11:10Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
             "stars": 14696
@@ -75,7 +75,7 @@
             "last_commit": "2026-02-07T12:22:13Z",
             "owner": "software-mansion-labs",
             "repo": "react-native-audio-api",
-            "stars": 676
+            "stars": 678
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1625
+            "stars": 1626
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-02-03T16:23:29Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10090
+            "stars": 10092
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25159
+            "stars": 25160
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2025-09-08T11:53:19Z",
             "owner": "steffest",
             "repo": "BassoonTracker",
-            "stars": 1126
+            "stars": 1127
           }
         },
         {
@@ -941,7 +941,7 @@
             "last_commit": "2025-07-09T10:54:49Z",
             "owner": "alemangui",
             "repo": "pizzicato",
-            "stars": 1712
+            "stars": 1713
           }
         },
         {
@@ -1133,10 +1133,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:01:22.633Z",
+    "last_updated": "2026-02-08T04:26:29.432Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome WebAudio"
   }
 }
