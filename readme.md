@@ -1,12 +1,12 @@
 # Awesome WebAudio
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 436,832 | 🐛 67 | 📅 2026-01-28
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 437,047 | 🐛 69 | 📅 2026-01-28
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
 > A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 436,832 | 🐛 67 | 📅 2026-01-28 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,047 | 🐛 69 | 📅 2026-01-28 list thing.
 
 Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) ⭐ 1,316 | 🐛 1 | 📅 2026-01-21 to add an awesome WebAudio thing to this list.
 
@@ -29,7 +29,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Frameworks
 
-* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,703 | 🐛 60 | 🌐 TypeScript | 📅 2026-02-10 - A framework for making interactive music in the browser.
+* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,705 | 🐛 60 | 🌐 TypeScript | 📅 2026-02-10 - A framework for making interactive music in the browser.
 * [Omnitone](https://github.com/GoogleChrome/omnitone) ⭐ 896 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-24 - Ambisonic spatial audio on the web.
 * [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) ⭐ 681 | 🐛 20 | 🌐 TypeScript | 📅 2026-02-11 - Web Audio API implementation for native apps based on react-native.
 * [Bap](https://github.com/adamrenklint/bap) ⚠️ Archived - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
@@ -38,7 +38,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Libraries
 
-* [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,171 | 🐛 413 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
+* [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,173 | 🐛 413 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
 * [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,099 | 🐛 49 | 🌐 TypeScript | 📅 2026-02-03 - Interactive navigable audio visualization using Web Audio and Canvas.
 * [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) ⭐ 2,101 | 🐛 126 | 🌐 TypeScript | 📅 2026-01-21 - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 * [Wad](https://github.com/rserota/wad) ⭐ 1,966 | 🐛 2 | 🌐 JavaScript | 📅 2025-11-06 - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
@@ -74,11 +74,11 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Apps
 
-* [waveform-playlist](https://github.com/naomiaro/waveform-playlist) ⭐ 1,593 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-02 - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
+* [waveform-playlist](https://github.com/naomiaro/waveform-playlist) ⭐ 1,598 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-13 - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
 * [BassoonTracker](https://github.com/steffest/BassoonTracker) ⭐ 1,128 | 🐛 30 | 🌐 JavaScript | 📅 2025-09-08 - MOD/XM Tracker in Javascript.
 * [LoopDrop App](https://github.com/mmckegg/loop-drop-app) ⭐ 834 | 🐛 69 | 🌐 JavaScript | 📅 2022-12-07 - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 * [Web Audio Metronome](https://github.com/cwilso/metronome) ⭐ 614 | 🐛 7 | 🌐 JavaScript | 📅 2022-10-07 - metronome app that uses the Web Audio scheduler and setTimeout scheduler
-* [webaudio-tinysynth](https://github.com/g200kg/webaudio-tinysynth) ⭐ 258 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-20 - a small synthesizer written in JavaScript with GM like timbre map.
+* [webaudio-tinysynth](https://github.com/g200kg/webaudio-tinysynth) ⭐ 259 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-20 - a small synthesizer written in JavaScript with GM like timbre map.
 * [Binary Synth](https://github.com/MaxAlyokhin/binary-synth) ⭐ 120 | 🐛 0 | 🌐 Vue | 📅 2026-01-20 - A web-synthesizer that generates sound from the binary code of any files.
 * [web-audio-mixer](https://github.com/jamesfiltness/web-audio-mixer) ⭐ 109 | 🐛 2 | 🌐 JavaScript | 📅 2022-12-09 - An audio mixer built using Web Audio.
 * [mod-synth.io](https://github.com/andrevenancio/mod-synth.io) ⭐ 57 | 🐛 2 | 🌐 CoffeeScript | 📅 2022-09-15 - Create your own modular synthesizer, or emulate different synths.
