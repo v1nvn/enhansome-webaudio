@@ -18,7 +18,7 @@
             "last_commit": "2026-05-08T22:47:37Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14596
+            "stars": 14598
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-08T12:59:15Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
-            "stars": 765
+            "stars": 767
           }
         }
       ],
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-08T09:54:21Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10222
+            "stars": 10225
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25264
+            "stars": 25265
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-04-17T03:16:24Z",
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2114
+            "stars": 2115
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-02-01T00:51:16Z",
             "owner": "jazz-soft",
             "repo": "JZZ",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -425,10 +425,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-08T16:42:39Z",
+            "last_commit": "2026-05-09T16:15:31Z",
             "owner": "steffest",
             "repo": "BassoonTracker",
-            "stars": 1144
+            "stars": 1145
           }
         },
         {
@@ -842,7 +842,7 @@
             "last_commit": "2025-05-23T06:54:47Z",
             "owner": "meenie",
             "repo": "band.js",
-            "stars": 1190
+            "stars": 1189
           }
         },
         {
@@ -1037,7 +1037,7 @@
             "last_commit": "2023-09-13T07:33:38Z",
             "owner": "mattdiamond",
             "repo": "Recorderjs",
-            "stars": 4239
+            "stars": 4238
           }
         },
         {
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:14:39.426Z",
+    "last_updated": "2026-05-10T05:29:48.611Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
