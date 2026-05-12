@@ -18,7 +18,7 @@
             "last_commit": "2026-05-08T22:47:37Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14599
+            "stars": 14601
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-08T12:59:15Z",
+            "last_commit": "2026-05-11T20:08:06Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
             "stars": 768
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-08T09:54:21Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10225
+            "stars": 10226
           }
         },
         {
@@ -164,7 +164,7 @@
             "last_commit": "2026-04-27T20:58:11Z",
             "owner": "audiojs",
             "repo": "audio",
-            "stars": 285
+            "stars": 287
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25266
+            "stars": 25270
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2025-07-06T11:09:19Z",
             "owner": "cifkao",
             "repo": "html-midi-player",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -428,7 +428,7 @@
             "last_commit": "2026-05-09T16:15:31Z",
             "owner": "steffest",
             "repo": "BassoonTracker",
-            "stars": 1145
+            "stars": 1146
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2022-12-20T04:31:49Z",
             "owner": "g200kg",
             "repo": "webaudio-tinysynth",
-            "stars": 264
+            "stars": 265
           }
         },
         {
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:50:43.307Z",
+    "last_updated": "2026-05-12T05:31:05.647Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
