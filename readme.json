@@ -18,7 +18,7 @@
             "last_commit": "2026-05-14T01:11:16Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14610
+            "stars": 14612
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-13T14:55:46Z",
+            "last_commit": "2026-05-14T12:17:45Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
             "stars": 767
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-14T05:12:38Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10230
+            "stars": 10234
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25273
+            "stars": 25276
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2025-07-06T11:09:19Z",
             "owner": "cifkao",
             "repo": "html-midi-player",
-            "stars": 874
+            "stars": 875
           }
         },
         {
@@ -267,10 +267,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T02:07:29Z",
+            "last_commit": "2026-05-14T17:05:10Z",
             "owner": "infojunkie",
             "repo": "musicxml-player",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -425,7 +425,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-09T16:15:31Z",
+            "last_commit": "2026-05-14T10:49:33Z",
             "owner": "steffest",
             "repo": "BassoonTracker",
             "stars": 1146
@@ -513,7 +513,7 @@
             "last_commit": "2026-05-07T01:19:45Z",
             "owner": "naomiaro",
             "repo": "waveform-playlist",
-            "stars": 1641
+            "stars": 1640
           }
         },
         {
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:40:13.829Z",
+    "last_updated": "2026-05-15T05:46:11.867Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
