@@ -18,7 +18,7 @@
             "last_commit": "2026-05-14T01:11:16Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14613
+            "stars": 14612
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2026-03-06T20:53:12Z",
             "owner": "Mach1Studios",
             "repo": "m1-sdk",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-14T12:17:45Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
-            "stars": 767
+            "stars": 768
           }
         }
       ],
@@ -164,7 +164,7 @@
             "last_commit": "2026-04-27T20:58:11Z",
             "owner": "audiojs",
             "repo": "audio",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25275
+            "stars": 25276
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2025-11-06T22:42:39Z",
             "owner": "rserota",
             "repo": "wad",
-            "stars": 1976
+            "stars": 1977
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-02-01T00:51:16Z",
             "owner": "jazz-soft",
             "repo": "JZZ",
-            "stars": 586
+            "stars": 587
           }
         },
         {
@@ -428,7 +428,7 @@
             "last_commit": "2026-05-14T10:49:33Z",
             "owner": "steffest",
             "repo": "BassoonTracker",
-            "stars": 1146
+            "stars": 1147
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-05-07T01:19:45Z",
             "owner": "naomiaro",
             "repo": "waveform-playlist",
-            "stars": 1640
+            "stars": 1641
           }
         },
         {
@@ -852,7 +852,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T16:35:20Z",
+            "last_commit": "2026-05-16T15:39:11Z",
             "owner": "adelespinasse",
             "repo": "reverbGen",
             "stars": 57
@@ -1138,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:19:55.593Z",
+    "last_updated": "2026-05-17T05:40:50.937Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
