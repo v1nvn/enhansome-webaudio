@@ -18,7 +18,7 @@
             "last_commit": "2026-05-14T01:11:16Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14614
+            "stars": 14615
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-14T12:17:45Z",
+            "last_commit": "2026-05-18T15:16:30Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
             "stars": 768
@@ -125,7 +125,7 @@
             "last_commit": "2024-04-25T20:23:17Z",
             "owner": "kittykatattack",
             "repo": "sound.js",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1638
+            "stars": 1639
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-14T05:12:38Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10241
+            "stars": 10243
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-04-06T21:23:08Z",
             "owner": "Theodeus",
             "repo": "tuna",
-            "stars": 1820
+            "stars": 1821
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25277
+            "stars": 25279
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-05-13T00:05:02Z",
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2114
+            "stars": 2115
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2025-07-06T11:09:19Z",
             "owner": "cifkao",
             "repo": "html-midi-player",
-            "stars": 875
+            "stars": 876
           }
         },
         {
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-14T17:05:10Z",
+            "last_commit": "2026-05-19T03:09:56Z",
             "owner": "infojunkie",
             "repo": "musicxml-player",
             "stars": 82
@@ -309,7 +309,7 @@
             "last_commit": "2025-03-29T21:45:10Z",
             "owner": "NumberOneBot",
             "repo": "dsssp",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -690,6 +690,11 @@
             "repo": "synflow",
             "stars": 7
           }
+        },
+        {
+          "children": [],
+          "description": "Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.",
+          "title": "Tonalux"
         }
       ],
       "title": "Apps"
@@ -1138,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:03:31.677Z",
+    "last_updated": "2026-05-19T05:58:09.964Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
