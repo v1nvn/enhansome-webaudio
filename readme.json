@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-14T01:11:16Z",
+            "last_commit": "2026-05-19T20:56:49Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14615
+            "stars": 14617
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-18T15:16:30Z",
+            "last_commit": "2026-05-19T20:22:17Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
             "stars": 768
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-14T05:12:38Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10243
+            "stars": 10245
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25279
+            "stars": 25282
           }
         },
         {
@@ -236,7 +236,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T00:05:02Z",
+            "last_commit": "2026-05-19T22:19:23Z",
             "owner": "magenta",
             "repo": "magenta-js",
             "stars": 2115
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T03:09:56Z",
+            "last_commit": "2026-05-20T00:29:56Z",
             "owner": "infojunkie",
             "repo": "musicxml-player",
             "stars": 82
@@ -585,7 +585,7 @@
             "last_commit": "2022-12-20T04:31:49Z",
             "owner": "g200kg",
             "repo": "webaudio-tinysynth",
-            "stars": 265
+            "stars": 266
           }
         },
         {
@@ -685,7 +685,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-17T19:36:40Z",
+            "last_commit": "2026-05-19T19:25:46Z",
             "owner": "k1ln",
             "repo": "synflow",
             "stars": 7
@@ -860,7 +860,7 @@
             "last_commit": "2026-05-16T15:39:11Z",
             "owner": "adelespinasse",
             "repo": "reverbGen",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T05:58:09.964Z",
+    "last_updated": "2026-05-20T05:57:39.799Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
