@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T20:56:49Z",
+            "last_commit": "2026-05-20T10:35:03Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14617
+            "stars": 14618
           }
         },
         {
@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-19T20:22:17Z",
+            "last_commit": "2026-05-20T15:29:56Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
-            "stars": 768
+            "stars": 769
           }
         }
       ],
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-14T05:12:38Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10245
+            "stars": 10248
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25282
+            "stars": 25284
           }
         },
         {
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-20T00:29:56Z",
+            "last_commit": "2026-05-21T05:44:21Z",
             "owner": "infojunkie",
             "repo": "musicxml-player",
             "stars": 82
@@ -1003,7 +1003,7 @@
             "last_commit": "2023-11-08T05:48:08Z",
             "owner": "higuma",
             "repo": "web-audio-recorder-js",
-            "stars": 791
+            "stars": 792
           }
         },
         {
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T05:57:39.799Z",
+    "last_updated": "2026-05-21T06:01:19.801Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
