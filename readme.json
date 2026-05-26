@@ -44,7 +44,7 @@
             "last_commit": "2026-04-15T10:30:12Z",
             "owner": "GoogleChrome",
             "repo": "omnitone",
-            "stars": 909
+            "stars": 910
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2026-03-06T20:53:12Z",
             "owner": "Mach1Studios",
             "repo": "m1-sdk",
-            "stars": 66
+            "stars": 65
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-14T05:12:38Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10252
+            "stars": 10253
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25286
+            "stars": 25288
           }
         },
         {
@@ -428,7 +428,7 @@
             "last_commit": "2026-05-17T19:52:58Z",
             "owner": "steffest",
             "repo": "BassoonTracker",
-            "stars": 1148
+            "stars": 1150
           }
         },
         {
@@ -510,7 +510,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-25T06:03:46Z",
+            "last_commit": "2026-05-25T06:41:04Z",
             "owner": "naomiaro",
             "repo": "waveform-playlist",
             "stars": 1645
@@ -925,7 +925,7 @@
             "last_commit": "2021-10-20T15:35:22Z",
             "owner": "mrahtz",
             "repo": "javascript-karplus-strong",
-            "stars": 303
+            "stars": 304
           }
         },
         {
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-25T06:17:02.633Z",
+    "last_updated": "2026-05-26T05:58:10.324Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
