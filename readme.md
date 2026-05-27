@@ -1,14 +1,14 @@
 # Awesome WebAudio
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 470,091 | 🐛 77 | 📅 2026-05-05
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 470,364 | 🐛 77 | 📅 2026-05-05
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
 > A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,091 | 🐛 77 | 📅 2026-05-05 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,364 | 🐛 77 | 📅 2026-05-05 list thing.
 
-Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) ⭐ 1,358 | 🐛 1 | 📅 2026-05-19 to add an awesome WebAudio thing to this list.
+Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) ⭐ 1,359 | 🐛 1 | 📅 2026-05-19 to add an awesome WebAudio thing to this list.
 
 ## Contents
 
@@ -29,17 +29,17 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Frameworks
 
-* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,627 | 🐛 61 | 🌐 TypeScript | 📅 2026-05-22 - A framework for making interactive music in the browser.
+* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,628 | 🐛 61 | 🌐 TypeScript | 📅 2026-05-22 - A framework for making interactive music in the browser.
 * [Omnitone](https://github.com/GoogleChrome/omnitone) ⭐ 910 | 🐛 30 | 🌐 JavaScript | 📅 2026-04-15 - Ambisonic spatial audio on the web.
-* [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) ⭐ 772 | 🐛 23 | 🌐 C++ | 📅 2026-05-21 - Web Audio API implementation for native apps based on react-native.
+* [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) ⭐ 773 | 🐛 23 | 🌐 C++ | 📅 2026-05-21 - Web Audio API implementation for native apps based on react-native.
 * [Bap](https://github.com/adamrenklint/bap) ⚠️ Archived - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 * [Mach1Spatial](https://github.com/Mach1Studios/m1-sdk) ⭐ 65 | 🐛 1 | 🌐 C | 📅 2026-03-06 - Vector based panning spatial audio on the web.
 * [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
 
 ### Libraries
 
-* [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,288 | 🐛 414 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
-* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,253 | 🐛 45 | 🌐 TypeScript | 📅 2026-05-14 - Interactive navigable audio visualization using Web Audio and Canvas.
+* [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,290 | 🐛 414 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
+* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,254 | 🐛 45 | 🌐 TypeScript | 📅 2026-05-14 - Interactive navigable audio visualization using Web Audio and Canvas.
 * [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) ⭐ 2,115 | 🐛 135 | 🌐 TypeScript | 📅 2026-05-19 - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 * [Wad](https://github.com/rserota/wad) ⭐ 1,977 | 🐛 3 | 🌐 JavaScript | 📅 2025-11-06 - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 * [Tuna](https://github.com/Theodeus/tuna) ⭐ 1,821 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-06 - An audio effects library.
@@ -62,7 +62,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Utilities
 
-* [Audion](https://github.com/google/audion) ⭐ 390 | 🐛 23 | 🌐 TypeScript | 📅 2026-05-21 - Chrome extension that adds a Web Audio panel to Developer Tools.
+* [Audion](https://github.com/google/audion) ⭐ 391 | 🐛 23 | 🌐 TypeScript | 📅 2026-05-21 - Chrome extension that adds a Web Audio panel to Developer Tools.
 * [web-audio-generator](https://github.com/ISNIT0/webaudio-generator) ⭐ 61 | 🐛 8 | 🌐 TypeScript | 📅 2022-12-08 - A UI for generating Web Audio code.
 * [Web Audio Studio](https://app.webaudio.studio) - A real-time visualizer for Web Audio API graphs generated from code.
 
