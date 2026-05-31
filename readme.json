@@ -18,7 +18,7 @@
             "last_commit": "2026-05-22T19:14:15Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14633
+            "stars": 14632
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-05-27T06:17:35Z",
             "owner": "GoogleChrome",
             "repo": "omnitone",
-            "stars": 910
+            "stars": 911
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-14T05:12:38Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10258
+            "stars": 10259
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25295
+            "stars": 25296
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-05-28T18:40:08Z",
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2115
+            "stars": 2116
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2025-07-06T11:09:19Z",
             "owner": "cifkao",
             "repo": "html-midi-player",
-            "stars": 878
+            "stars": 879
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2022-12-07T18:48:50Z",
             "owner": "mmckegg",
             "repo": "loop-drop-app",
-            "stars": 833
+            "stars": 834
           }
         },
         {
@@ -647,7 +647,7 @@
             "last_commit": "2026-01-20T13:10:16Z",
             "owner": "MaxAlyokhin",
             "repo": "binary-synth",
-            "stars": 128
+            "stars": 129
           }
         },
         {
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:40:36.518Z",
+    "last_updated": "2026-05-31T06:08:16.225Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
