@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-01T15:57:53Z",
+            "last_commit": "2026-06-02T15:27:45Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
-            "stars": 778
+            "stars": 780
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1640
+            "stars": 1641
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-14T05:12:38Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10263
+            "stars": 10265
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25295
+            "stars": 25294
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2025-11-06T22:42:39Z",
             "owner": "rserota",
             "repo": "wad",
-            "stars": 1979
+            "stars": 1980
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-05-25T06:41:04Z",
             "owner": "naomiaro",
             "repo": "waveform-playlist",
-            "stars": 1647
+            "stars": 1648
           }
         },
         {
@@ -685,7 +685,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-31T20:30:24Z",
+            "last_commit": "2026-06-02T14:03:27Z",
             "owner": "k1ln",
             "repo": "synflow",
             "stars": 7
@@ -1143,7 +1143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-02T06:27:11.664Z",
+    "last_updated": "2026-06-03T06:43:58.160Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
