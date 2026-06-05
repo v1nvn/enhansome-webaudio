@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-22T19:14:15Z",
+            "last_commit": "2026-06-04T11:32:17Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14632
+            "stars": 14634
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-03T15:56:19Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
-            "stars": 782
+            "stars": 783
           }
         }
       ],
@@ -151,7 +151,7 @@
             "last_commit": "2026-05-14T05:12:38Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10267
+            "stars": 10269
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-05-28T18:40:08Z",
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2116
+            "stars": 2117
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2024-10-18T15:44:18Z",
             "owner": "jerosoler",
             "repo": "waveform-path",
-            "stars": 131
+            "stars": 133
           }
         },
         {
@@ -338,7 +338,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-29T16:02:10Z",
+            "last_commit": "2026-06-04T14:18:13Z",
             "owner": "GoogleChrome",
             "repo": "audion",
             "stars": 392
@@ -695,6 +695,11 @@
           "children": [],
           "description": "Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.",
           "title": "Tonalux"
+        },
+        {
+          "children": [],
+          "description": "Microtonal drone instrument that runs in your browser.",
+          "title": "mdrone"
         }
       ],
       "title": "Apps"
@@ -1068,7 +1073,7 @@
             "last_commit": "2021-07-26T10:50:41Z",
             "owner": "tornqvist",
             "repo": "bpm-detective",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -1143,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:27:54.528Z",
+    "last_updated": "2026-06-05T06:12:53.412Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
