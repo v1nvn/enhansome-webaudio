@@ -18,7 +18,7 @@
             "last_commit": "2026-06-04T11:32:17Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14634
+            "stars": 14633
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-03T15:56:19Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
-            "stars": 783
+            "stars": 784
           }
         }
       ],
@@ -125,7 +125,7 @@
             "last_commit": "2024-04-25T20:23:17Z",
             "owner": "kittykatattack",
             "repo": "sound.js",
-            "stars": 317
+            "stars": 318
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1641
+            "stars": 1643
           }
         },
         {
@@ -148,7 +148,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-14T05:12:38Z",
+            "last_commit": "2026-06-05T15:07:39Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
             "stars": 10269
@@ -177,7 +177,7 @@
             "last_commit": "2026-04-06T21:23:08Z",
             "owner": "Theodeus",
             "repo": "tuna",
-            "stars": 1821
+            "stars": 1822
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25294
+            "stars": 25295
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-05-28T18:40:08Z",
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2117
+            "stars": 2119
           }
         },
         {
@@ -428,7 +428,7 @@
             "last_commit": "2026-05-17T19:52:58Z",
             "owner": "steffest",
             "repo": "BassoonTracker",
-            "stars": 1152
+            "stars": 1153
           }
         },
         {
@@ -685,7 +685,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-02T14:03:27Z",
+            "last_commit": "2026-06-05T19:43:28Z",
             "owner": "k1ln",
             "repo": "synflow",
             "stars": 7
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-05T06:12:53.412Z",
+    "last_updated": "2026-06-06T05:46:15.873Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
