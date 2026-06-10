@@ -18,7 +18,7 @@
             "last_commit": "2026-06-04T11:32:17Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14639
+            "stars": 14641
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-08T16:11:42Z",
+            "last_commit": "2026-06-09T16:04:29Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
             "stars": 784
@@ -148,10 +148,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-09T04:09:37Z",
+            "last_commit": "2026-06-10T05:08:07Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10270
+            "stars": 10269
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25300
+            "stars": 25298
           }
         },
         {
@@ -236,7 +236,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-28T18:40:08Z",
+            "last_commit": "2026-06-10T04:56:27Z",
             "owner": "magenta",
             "repo": "magenta-js",
             "stars": 2120
@@ -283,7 +283,7 @@
             "last_commit": "2024-10-18T15:44:18Z",
             "owner": "jerosoler",
             "repo": "waveform-path",
-            "stars": 133
+            "stars": 132
           }
         },
         {
@@ -510,7 +510,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-25T06:41:04Z",
+            "last_commit": "2026-06-10T06:00:32Z",
             "owner": "naomiaro",
             "repo": "waveform-playlist",
             "stars": 1650
@@ -1047,7 +1047,7 @@
             "last_commit": "2023-09-13T07:33:38Z",
             "owner": "mattdiamond",
             "repo": "Recorderjs",
-            "stars": 4239
+            "stars": 4238
           }
         },
         {
@@ -1109,7 +1109,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2017-10-30T18:23:41Z",
+            "last_commit": "2026-06-09T22:51:04Z",
             "owner": "andrejhronco",
             "repo": "midi-ports",
             "stars": 15
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-09T06:00:29.177Z",
+    "last_updated": "2026-06-10T06:13:48.325Z",
     "original_repository": "notthetup/awesome-webaudio",
     "source_repository": "v1nvn/enhansome-webaudio",
     "source_repository_description": null,
